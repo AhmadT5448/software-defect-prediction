@@ -30,3 +30,4 @@ For more detailed information on the NASA PROMISE repository, visit PROMISE Repo
 
 # LSTM Model trained on the dataset
 I have trained LSTM model on these dataset!!!
+These are the scripts and in the near future I will upload a flask web app, to integrate these trained model. 
